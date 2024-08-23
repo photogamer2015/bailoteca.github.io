@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1px 500px;
+    padding: 1px 20%;
     background-color: #3e3e3c;
     color: rgb(255, 255, 255);
 }
@@ -17,7 +17,7 @@
 
 .intro{
     text-align: center;
-    font-size: 30px;;
+    font-size: 30px;
 }
 .inicio{
     font-size: 25px;
@@ -132,7 +132,7 @@ float: left;
     margin-top: 20px;
 }
 .resolution{
-    width: 98%;
+    width: 110%;
     text-align: center;
   }
   /*Celular*/
