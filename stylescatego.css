@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1px 550px;
+    padding: 1px 500px;
     background-color: #3e3e3c;
     color: rgb(255, 255, 255);
 }
@@ -132,7 +132,7 @@ float: left;
     margin-top: 20px;
 }
 .resolution{
-    width: 100%;
+    width: 98%;
     text-align: center;
   }
   /*Celular*/
