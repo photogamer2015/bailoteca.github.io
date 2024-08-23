@@ -199,33 +199,26 @@ text-align: center;
     width: 99%;
     text-align: center;
   }
-  /*Celular*/
-  @media (max-width: 767px) {
-    .desktop {
-        display: none;
+ @media screen and (max-width: 980px){
+    #contenedor{
+        width: 90%;
     }
-    .tablet {
-        display: none;
+    #contenido{
+        width: 60%;
     }
-}
-/**Tablet**/
-
-@media (min-width: 768px) and (max-width: 990px) {
-    .desktop {
-        display: none;
-    }
-    .movil {
-        display: none;
+    #barra_lateral{
+        width:30%;
     }
 }
-/**Escritorio**/
-
-@media (min-width: 991px) {
-    .tablet {
-        display: none;
+@media screen and (max-width: 480px){
+    #encabezado{
+        height: auto;
     }
-    .movil {
-        display: none;
+    #contenido{
+        width: auto;
+    }
+    #barra_lateral{
+        display:none;
     }
 }
   
