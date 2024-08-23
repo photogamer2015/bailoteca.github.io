@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylecatego.css">
+    <link rel="icon" href="icono.ico">
+    <title>bailoteca_rocka</title>
+
+</head>
+<header class="main-header">
+    <div class="logo">
+        <a href="/index.html""><img src="logo.png" alt="Logo de la pagina"></a>
+    </div>
+    <div class="intro">
+   <h2>CATEGORIA</h2>
+   <h1>ROCK AND ROLL</h1>
+    </div><br>
+    <br>
+</header>
+<body>
+    <br>
+        <ul>
+            <ul>
+                <a href="/index.html""><li class="nav"><img src="/imagenes/home.png" class="img"></li></a>
+                <a href="/categorias/regueton.html"><li class="nav">REGUETÓN</li></a>
+                <a href="/categorias/cumbia.html"><li class="nav">CUMBIA</li></a>
+                <a href="/categorias/salsa.html"><li class="nav">SALSA</li></a>
+                <a href="/categorias/merengue.html"><li class="nav">MERENGUE</li></a>
+                <a href="/categorias/disco.html"><li class="nav">DISCO</li></a>
+                <a href="/categorias/ballet.html"><li class="nav">BALLET</li></a>
+                <a href="/categorias/samba.html"><li class="nav">SAMBA</li></a>
+                <a href="/categorias/tango.html" ><li class="nav">TANGO</li></a>
+                <a href="/categorias/bachata.html"><li class="nav">BACHATA</li></a>
+                <a href="/categorias/salsac.html"><li class="nav">S CHOQUE</li></a>
+                <a href="/categorias/folclor.html"><li class="nav"  class="navi">DANZA ANDINA</li></a>
+            </ul>
+        </ul>
+        <div class="videos-container">
+            <h2 class="inicio">Pasos Básicos</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/q3pY8cmlgfo?si=CkJd3CuNrEfI2iKV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/U9f5aMS6VUg?si=FWn5mZomQ_ozPXRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/Ho68rVB_VX8?si=q4ZJDft09JYkP0RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/N3g5EA6JJQg?si=i5ftH7WcvIvxBz8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/D0-vv2mq72o?si=smwEy4Lg4zhZss_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/tm6qUxXbzp4?si=cZwgPb9Q1p_drRec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Pasos en parejas</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/00XoP0wBpCk?si=447TJjByAZvVAte-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/ql_-QTU-zcU?si=4ssaEaPzsCAsp-3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Bailoterapia</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ynez09GRCsY?si=Dr7Ec7DZ24kXXp1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/-SIY-iG1pSo?si=fnWvsG4DKC-d59e9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Coreoografía</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/khiAlknv3Wg?si=a4Fnb1ho9DkMi6i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+<h2 class="inicio">Prática</h2>
+</div>
+<style>
+    #playlist{
+        display: none;
+    }
+        </style>
+    <div class="modi">
+        <button id="button" class="boton" onclick="mostrar();">PLAYLIST</button>
+    </div>
+            <br>
+        <div id="playlist">
+        <button id="button" class="boton" onclick="ocultar();"> CERRAR </button>
+   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tsxt1N0qa2g?si=T-Q67-ito4W7__NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/Vz7dren3F2w?si=uEEiL5gucnn4x-MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+    </div>
+    <script>
+        function mostrar(){
+            document.getElementById('playlist').style.display= 'block';
+        }
+        function ocultar(){
+            document.getElementById('playlist').style.display= 'none';
+        }
+    </script>
+
+            <footer class="footer">
+  
+                <div class="container">
+                    <div>
+                        <h3>Contactos</h3>
+                        <p>photogamer2015@gmail.com</p>
+                        <p>photogamer2001@gmail.com</p>
+                    </div>
+                    <div>
+                        <h3>Sobre la pagina</h3>
+                        <a href="/imagenes/logo.png">Logo</a>
+                        <a href="#">Categoria</a>
+                    </div>
+                    <div>
+                        <h3>Redes sociales</h3>
+                        <div class="social-icons">
+                            <a href="https://youtube.com/@photogamer2015?si=J8pI16Ro_5OvOmXP" target="_blank"> Youtube<i class="fa fa-facebook"></i></a>
+                            <a href="https://www.tiktok.com/@photogamer2015" target="_blank">TikTok<i class="fa fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/Photogamer2015" target="_blank">Facebook<i class="fa fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    PHOTOGAMER, Yandri G.
+                </div>
+            </footer>
+</body>
+</html>
