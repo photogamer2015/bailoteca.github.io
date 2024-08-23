@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylescatego.css">
+    <link rel="icon" href="icono.ico">
+    <title>bailoteca_samba</title>
+
+</head>
+<header class="main-header">
+    <div class="logo">
+        <a href="index.html"><img src="logo.png" alt="Logo de la pagina"></a>
+    </div>
+    <div class="intro">
+   <h2>CATEGORIA</h2>
+   <h1>SAMBA</h1>
+    </div><br>
+    <br>
+</header>
+<body>
+    <br>
+        <ul>
+            <ul>
+                <a href="/index.html""><li class="nav"><img src="/imagenes/home.png" class="img"></li></a>
+                <a href="/categorias/regueton.html"><li class="nav">REGUETÓN</li></a>
+                <a href="/categorias/cumbia.html"><li class="nav">CUMBIA</li></a>
+                <a href="/categorias/salsa.html"><li class="nav">SALSA</li></a>
+                <a href="/categorias/merengue.html"><li class="nav">MERENGUE</li></a>
+                <a href="/categorias/disco.html"><li class="nav">DISCO</li></a>
+                <a href="/categorias/rocka.html"><li class="nav">rock'n'roll</li></a>
+                <a href="/categorias/ballet.html"><li class="nav">BALLET</li></a>
+                <a href="/categorias/tango.html" ><li class="nav">TANGO</li></a>
+                <a href="/categorias/bachata.html"><li class="nav">BACHATA</li></a>
+                <a href="/categorias/salsac.html"><li class="nav">S CHOQUE</li></a>
+                <a href="/categorias/folclor.html"><li class="nav"  class="navi">DANZA ANDINA</li></a>
+            </ul>
+        </ul>
+        <div class="videos-container">
+            <h2 class="inicio">Pasos Básicos</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/yww3MLMri-o?si=WcHG6a_6hXeXkex0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/WXTKAKrFrSY?si=H-Q1CHCdHtbR_yx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/9e35XKYqA_A?si=vD_YW1UTwkbRuZbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/3300sPGRUvM?si=XSxleJXIc4WTbZgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/XnTzl31UqlY?si=9FitHqRB8z28UzeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/Tjh1wq24kTk?si=56S3P7EvHrWj4lIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Pasos dificiles </h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jZj80b49aQI?si=FBmT_DF765EFEMrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/mN20sNZvhVI?si=7iJvfbbE5VUb3F99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Para Mujeres </h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/1F08cEtr4eo?si=zmgyPB99wTA-TiS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/G_--aeF0V3c?si=GC3WgEAQ3cHY531T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Para Hombres </h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/r7jo70tpIqE?si=iPHddmlWxFm5ENld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/jtax5POqcoc?si=sNoMj99xdZ1gVrgD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Bailoterapia</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tzUkByZkkzE?si=qGhQqjQBWEK7bTBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/v8j--_FnRM4?si=fgycNQcXxt8Ot8Xa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+            <h2 class="inicio">Coreografía</h2>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/yGcRer5HYKM?si=rYJFD9WYBhd9nAPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/fBrK9q6Nmu0?si=A8idti81-Y5Kmg6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            <br>
+<h2 class="inicio">Prática</h2> 
+        </div>
+        <style>
+            #playlist{
+                display: none;
+            }
+                </style>
+            <div class="modi">
+                <button id="button" class="boton" onclick="mostrar();">PLAYLIST</button>
+            </div>
+                    <br>
+                <div id="playlist">
+                <button id="button" class="boton" onclick="ocultar();"> CERRAR </button>
+                <p><iframe width="560" height="315" src="https://www.youtube.com/embed/M9IgiZAjPEg?si=qzM35NAx_7tjK-hp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/lY1saR2w9kY?si=lhSAC7PqTcgj-kdC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+            
+            
+            </div>
+            <script>
+                function mostrar(){
+                    document.getElementById('playlist').style.display= 'block';
+                }
+                function ocultar(){
+                    document.getElementById('playlist').style.display= 'none';
+                }
+            </script>
+
+    <footer class="footer">
+
+        <div class="container">
+            <div>
+                <h3>Contactos</h3>
+                <p>photogamer2015@gmail.com</p>
+                <p>photogamer2001@gmail.com</p>
+            </div>
+            <div>
+                <h3>Sobre la pagina</h3>
+                <a href="/imagenes/logo.png">Logo</a>
+                <a href="#">Categoria</a>
+            </div>
+            <div>
+                <h3>Redes sociales</h3>
+                <div class="social-icons">
+                    <a href="https://youtube.com/@photogamer2015?si=J8pI16Ro_5OvOmXP" target="_blank"> Youtube<i class="fa fa-facebook"></i></a>
+                    <a href="https://www.tiktok.com/@photogamer2015" target="_blank">TikTok<i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/Photogamer2015" target="_blank">Facebook<i class="fa fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            PHOTOGAMER, Yandri G.
+        </div>
+    </footer>
+</body>
+</html>
