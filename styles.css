@@ -197,11 +197,11 @@ text-align: center;
 
 @media screen and (max-width: 800px){
    .container{
-    width: 100%;
+    width: 180%;
    }
    .navbar a{
     width: 100%;
-    padding: 10px 10px;
+    padding: 10px 200px;
    }
 .main-header{
     width: 80%;
@@ -219,6 +219,8 @@ text-align: center;
 text-align:center;
     font-size: 20px;
   }
-}
-  
+  .footer{
+    padding: 10px 350px;
+  }
+  }
   
