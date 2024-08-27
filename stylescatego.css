@@ -158,10 +158,11 @@ float: left;
             
         }
         li{
-       flex: 1 1 calc(50% - 10px); 
-    box-sizing: border-box;
-    padding: 2px;
-    text-align: center;
+        flex: 1 1 calc(50% - 10px); 
+        box-sizing: border-box;
+        padding: 2px;
+        text-align: center;
+        border-radius: 25%;
         }
         #playlist{
             font-size: 10px;
