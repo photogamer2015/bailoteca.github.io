@@ -253,7 +253,7 @@ float: left;
         display: none;
     }
 }
- @media (min-width: 1094px) {
+ @media (max-width: 1094px) {
         .main-header{
             padding: 1px 100px;
         }
