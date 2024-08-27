@@ -152,13 +152,16 @@ float: left;
             font-size: 20px;
         }
         ul{
-            flex-direction: column;
-             display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
+     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+            
         }
         li{
-            margin-bottom: 2px;
+       flex: 1 1 calc(50% - 10px); 
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
         }
         #playlist{
             font-size: 10px;
