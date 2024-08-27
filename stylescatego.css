@@ -152,10 +152,10 @@ float: left;
             font-size: 20px;
         }
         ul{
-            flex-direction: row;
+            flex-direction: colum;
         }
         li{
-            margin-bottom: 1px;
+            margin-bottom: 0px;
         }
         #playlist{
             font-size: 10px;
