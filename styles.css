@@ -291,14 +291,5 @@ text-align: center;
         display: none;
     }
 }
-/**Escritorio**/
 
-@media (min-width: 991px) {
-    .tablet {
-        display: none;
-    }
-    .movil {
-        display: none;
-    }
-}
   
