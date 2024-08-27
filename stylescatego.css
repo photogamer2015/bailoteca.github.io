@@ -138,7 +138,7 @@ float: left;
   /*Celular*/
   @media (max-width: 800px) {
         .main-header{
-            padding: 1px 50px;
+            padding: 1px 200px;
         }
         .logo img {
             height: 150px;
