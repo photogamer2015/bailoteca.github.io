@@ -32,7 +32,7 @@ ul{
 }
 li{
     float: left;
-    
+    border: white 8px outset;
 }
 .nav {
     font-family: roboto;
