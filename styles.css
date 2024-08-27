@@ -200,12 +200,12 @@ text-align: center;
     text-align: center;
   }
   /*Celular*/
-  @media (max-width: 900px) {
+  @media (max-width: 800px) {
          .main-header{
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 10px 200px;
+        padding: 5px;
         }
         .logo img{
             height: 150px;
@@ -280,7 +280,7 @@ text-align: center;
   
 /**Tablet**/
 
-@media (max-width: 990px) {
+@media (max-width: px) {
     .desktop {
         display: none;
     }
