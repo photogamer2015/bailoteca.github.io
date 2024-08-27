@@ -256,6 +256,55 @@ float: left;
 /**Escritorio**/
 
 @media (min-width: 1920px) {
+     .main-header{
+            padding: 4px 150px;
+        }
+        .logo img {
+            height: 250px;
+            width: 300px;
+            margin-left: 120px;
+        }
+        .intro{
+            font-size: 80px;
+        }
+        .inicio{
+            font-size: 80px;
+        }
+        ul{
+     display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+            
+        }
+        li{
+        flex: 1 1 calc(50% - 20px); 
+        box-sizing: border-box;
+        padding: 8px;
+        text-align: center;
+        border-radius: 25%;
+        }
+        #playlist{
+            font-size: 40px;
+        }
+        .boton{
+            font-size: 16px;
+        }
+        .boton:hover{
+            font-size: 32px;
+        }
+        .boton:active{
+            font-size: 32px;
+        }
+        .modi{
+            font-size: 32px;
+        }
+        .footer {
+            padding: 20px 0;
+        }
+        .footer.container {
+            flex-direction: row;
+            align-items: center;
+        }
     .tablet {
         display: none;
     }
