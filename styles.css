@@ -195,8 +195,8 @@ text-align: center;
     transform: scale(1.05); /* Efecto de zoom al hacer hover */
   }
 .resolution{
-     width: 100%;
-    text-align: center;
+     width: 95%;
+    text-align: left;
 
   }
   /*Celular*/
