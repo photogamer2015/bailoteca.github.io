@@ -204,7 +204,7 @@ text-align: center;
          .main-header{
         flex-direction: column;
         align-items: center;
-        padding: 100px;
+        padding: 10px;
         }
         .logo img{
             height: 150px;
@@ -276,8 +276,8 @@ text-align: center;
             margin-top: 10px;
         }
       .footer .container {
-            flex-direction: column;
-            align-items: left;
+            flex-direction:row;
+            align-items: center;
         }
     }
   
