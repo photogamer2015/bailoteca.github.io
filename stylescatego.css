@@ -153,6 +153,7 @@ float: left;
         }
         ul{
             flex-direction: column;
+            template-columns: 1fr 1fr;
         }
         li{
             margin-bottom: 2px;
