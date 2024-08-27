@@ -196,7 +196,7 @@ float: left;
 }
 /**Tablet**/
 
-@media (min-width: 900px) and (max-width: 1024px) {
+@media (min-width: 900px) and (max-width: 1924px) {
        .main-header{
             padding: 2px 100px;
         }
