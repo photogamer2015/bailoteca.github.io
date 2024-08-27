@@ -155,7 +155,7 @@ float: left;
             flex-direction: column;
         }
         li{
-            margin-bottom: 1px;
+            margin-bottom: 0px;
         }
         #playlist{
             font-size: 10px;
