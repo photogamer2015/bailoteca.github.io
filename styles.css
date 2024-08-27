@@ -201,22 +201,73 @@ text-align: center;
   }
   /*Celular*/
   @media (max-width: 800px) {
-      .main-header{
+       .main-header{
         flex-direction: column;
         align-items: center;
-        padding: 50%;
+        padding: 150px;
         }
         .logo img{
             height: 150px;
             width: 200px;
-    .desktop {
-        display: none;
-    }
-    .tablet {
-        display: none;
-    }
+        
+        }
+    .intro{
+        font-size: 25px;
+        margin-bottom: 20px;
+        }
+        .sub{
+        font-size: 20px;
+        margin-bottom: 20px;
+        }
+        .Categoria{
+            font-size: 20px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .navbar ul {
+            flex-direction: column;
+            justify-content: center;
+        }
+        .navbar li {
+            margin-bottom: 20px;
+        }
+        .navbar a {
+            padding: 10px 20px;
+        }
+        .navbar a::after {
+            display: none;
+        }
+        #playlist{
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .boton{
+            padding: 10px 30px;
+        }
+        .boton:hover{
+            background-color: #a8af69;
+        }
+        .boton:active{
+            background-color: #a8af69;
+        }
+        .modi{
+            text-align: center;
+            border-radius: 5%;
+        }
+        .origen{
+            font-size: 18px;
+        }
+        .datos{
+            font-size: 20px;
+            background-color: #e0e899;
+        }
+        .titulo{
+            background-color: #e0e899;
+        }
+     
 }
-  }
+  
 /**Tablet**/
 
 @media (min-width: 768px) and (max-width: 990px) {
