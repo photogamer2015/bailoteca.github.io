@@ -138,7 +138,7 @@ float: left;
   /*Celular*/
   @media (max-width: 800px) {
         .main-header{
-            padding: 1px 200px;
+            padding: 1px 50px;
         }
         .logo img {
             height: 150px;
@@ -152,10 +152,10 @@ float: left;
             font-size: 20px;
         }
         ul{
-            flex-direction: row;
+            flex-direction: column;
         }
         li{
-            margin-bottom: 1px;
+            margin-bottom: 2px;
         }
         #playlist{
             font-size: 10px;
