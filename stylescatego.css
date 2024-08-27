@@ -132,11 +132,12 @@ float: left;
     margin-top: 20px;
 }
 .resolution{
-    width: 110%;
+    width: 200%;
     text-align: center;
   }
   /*Celular*/
-  @media (max-width: 767px) {
+  @media (max-width: 800px) {
+      
     .desktop {
         display: none;
     }
