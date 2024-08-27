@@ -153,7 +153,9 @@ float: left;
         }
         ul{
             flex-direction: column;
-            template-columns: 1fr 1fr;
+             display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
         }
         li{
             margin-bottom: 2px;
