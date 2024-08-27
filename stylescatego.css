@@ -137,6 +137,48 @@ float: left;
   }
   /*Celular*/
   @media (max-width: 800px) {
+        .main-header{
+            padding: 1px 50px;
+        }
+        .logo img {
+            height: 150px;
+            width: 200px;
+            margin-left: 30px;
+        }
+        .intro{
+            font-size: 20px;
+        }
+        .inicio{
+            font-size: 20px;
+        }
+        ul{
+            flex-direction: column;
+        }
+        li{
+            margin-bottom: 10px;
+        }
+        #playlist{
+            font-size: 10px;
+        }
+        .boton{
+            font-size: 8px;
+        }
+        .boton:hover{
+            font-size: 8px;
+        }
+        .boton:active{
+            font-size: 8px;
+        }
+        .modi{
+            font-size: 8px;
+        }
+        .footer {
+            padding: 5px 0;
+        }
+        .footer.container {
+            flex-direction: row;
+            align-items: center;
+        }
       
     .desktop {
         display: none;
