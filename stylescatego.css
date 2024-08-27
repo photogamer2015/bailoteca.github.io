@@ -257,7 +257,7 @@ float: left;
 
 @media (min-width: 1920px) {
      .main-header{
-            padding: 4px 150px;
+            padding: 4px 100px;
         }
         .logo img {
             height: 250px;
@@ -277,7 +277,7 @@ float: left;
             
         }
         li{
-        flex: 1 1 calc(50% - 20px); 
+        flex: 1 1 calc(50% - 10px); 
         box-sizing: border-box;
         padding: 8px;
         text-align: center;
