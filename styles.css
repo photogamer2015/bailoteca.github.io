@@ -200,11 +200,11 @@ text-align: center;
     text-align: center;
   }
   /*Celular*/
-  @media (max-width: 767px) {
+  @media (max-width: 800px) {
       .main-header{
         flex-direction: column;
         align-items: center;
-        padding: 50px;
+        padding: 100px;
         }
         .logo img{
             height: 150px;
