@@ -194,6 +194,9 @@ text-align: center;
   .image-container:hover {
     transform: scale(1.05); /* Efecto de zoom al hacer hover */
   }
+.resolution{
+     width: 100%;
+    text-align: center;
 
   }
   /*Celular*/
