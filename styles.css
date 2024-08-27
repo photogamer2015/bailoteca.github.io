@@ -201,7 +201,7 @@ text-align: center;
   }
   /*Celular*/
   @media (max-width: 800px) {
-       .main-header{
+         .main-header{
         flex-direction: column;
         align-items: center;
         padding: 150px;
@@ -265,8 +265,17 @@ text-align: center;
         .titulo{
             background-color: #e0e899;
         }
-     
-}
+        .bee{
+            border-radius: 10%;
+        }
+        .videos{
+            border-radius: 10%;
+        }
+        .footer {
+            padding: 10px 0;
+            margin-top: 10px;
+        }
+    }
   
 /**Tablet**/
 
