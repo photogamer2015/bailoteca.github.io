@@ -261,6 +261,14 @@ float: left;
         .modi{
             font-size: 16px;
         }
+     .home{
+            font-size: 100px;
+            margin-left: 20px;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            margin-right: 20px;
+            border-radius: 50%;
+        }
         .footer {
             padding: 10px 0;
         }
