@@ -194,6 +194,14 @@ float: left;
         .modi{
             font-size: 8px;
         }
+      .home{
+            font-size: 40px;
+            margin-left: 10px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
         .footer {
             padding: 5px 0;
         }
