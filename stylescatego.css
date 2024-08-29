@@ -144,6 +144,9 @@ float: left;
 .texto{
         color: rgb(199, 14, 14);
 }
+.cantantes{
+    text-decoration: none;
+}
 
 .resolution{
     width: 200%;
