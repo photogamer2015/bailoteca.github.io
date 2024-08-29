@@ -125,6 +125,14 @@ text-align: center;
 .videos{
     border-radius: 10%;
 }
+.music{
+margin-left: 25px;
+text-align: center;
+color: white;
+height: 200px;
+width: 200px;
+border-radius: 50%;
+}
 .footer {
     background-color: #333;
     color: white;
