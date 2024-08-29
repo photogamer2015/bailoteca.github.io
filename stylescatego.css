@@ -141,6 +141,9 @@ float: left;
     border-radius: 50%;
     
 }
+.texto{
+        color: rgb(199, 14, 14);
+}
 
 .resolution{
     width: 200%;
