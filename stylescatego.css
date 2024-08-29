@@ -6,6 +6,13 @@
     background-color: #3e3e3c;
     color: rgb(255, 255, 255);
 }
+.texto{
+        color: rgb(199, 14, 14);
+}
+.cantantes{
+    text-decoration: none;
+    color: black;
+}
 
 
 .logo img {
@@ -141,12 +148,7 @@ float: left;
     border-radius: 50%;
     
 }
-.texto{
-        color: rgb(199, 14, 14);
-}
-.cantantes{
-    text-decoration: none;
-}
+
 
 .resolution{
     width: 200%;
