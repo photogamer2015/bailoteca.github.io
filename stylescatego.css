@@ -72,13 +72,14 @@ float: left;
     
     .boton{
         text-align: center;
-        padding: 20px 30px;
         background-color:  rgb(124, 39, 39);
         color: rgb(255, 255, 255);
-        border: none;
-        border-radius: 10px;
         cursor: pointer;
         font-size: 10px;
+        margin-left: 25px;
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
     }
     .boton:hover{
         color:#e9e9a1;
