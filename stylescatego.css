@@ -138,17 +138,65 @@ float: left;
     padding: 10px 0;
     margin-top: 20px;
 }
-.home{
-    margin-top: 5px;
-    margin-left: 50px;
-    text-align: center;
-    color: white;
-    height: 130px;
-    width: 130px;
-    border-radius: 50%;
-    
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.navbar {
+    background-color: #333; /* Color de fondo del navbar */
+    border-radius: 8px; /* Bordes redondeados */
+    overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
 }
 
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around; /* Distribuye los elementos con espacio entre ellos */
+}
+
+.navbar li {
+    position: relative; /* Necesario para el pseudo-elemento */
+    text-align: left;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 500px; /* Espaciado interno de los enlaces */
+    display: block; /* Hace que el padding se aplique correctamente */
+    transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+.navbar a:hover {
+    background-color: #eae86cb7; /* Color de fondo al pasar el ratón */
+    color: white; /* Asegura que el texto permanezca blanco */
+}
+
+.navbar a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    transition: width 0.3s;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.navbar a:hover::after {
+    width: 100%; /* La línea se expande al 100% cuando se pasa el ratón */
+}
+.datos{
+    font-size: 25px;
+    background-color: #e0e899;
+}
 
 .resolution{
     width: 200%;
