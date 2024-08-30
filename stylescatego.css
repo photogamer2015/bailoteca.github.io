@@ -254,10 +254,10 @@ float: left;
             justify-content: center;
         }
         .navbar li {
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
         .navbar a {
-            padding: 10px 20px;
+            padding: 10px 15px;
         }
         .navbar a::after {
             display: none;
