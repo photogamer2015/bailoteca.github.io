@@ -356,13 +356,35 @@ float: left;
         .modi{
             font-size: 16px;
         }
-     .home{
-            font-size: 100px;
-            margin-left: 20px;
-            margin-top: 40px;
-            margin-bottom: 20px;
+    . .container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .navbar{
+            display: none;
+            position: sticky;
+            top: 0;
+            background-color: #333; /* Color de fondo del navbar */
+            border-radius: 8px; /* Bordes redondeados */
+            overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+        }
+        .navbar ul{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .navbar li{
             margin-right: 20px;
-            border-radius: 50%;
+        }
+        .navbar a{
+            font-size: 20px;
+        }
+        .navbar a:hover{
+            color: white;
         }
         .footer {
             padding: 10px 0;
