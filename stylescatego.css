@@ -205,6 +205,9 @@ height: 150px;
 width: 150px;
 border-radius: 50%;
 }
+span{
+    font-weight: bold;
+}
 
 .resolution{
     width: 200%;
