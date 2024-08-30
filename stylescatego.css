@@ -80,6 +80,7 @@ float: left;
         height: 150px;
         width: 150px;
         border-radius: 50%;
+        border: none;
     }
     .boton:hover{
         color:#e9e9a1;
@@ -244,16 +245,16 @@ span{
         border-radius: 25%;
         }
         #playlist{
-            font-size: 10px;
+            font-size: 20px;
         }
         .boton{
-            font-size: 8px;
+            font-size: 20px;
         }
         .boton:hover{
             font-size: 8px;
         }
         .boton:active{
-            font-size: 8px;
+            font-size: 10px;
         }
         .modi{
             font-size: 8px;
