@@ -225,6 +225,14 @@ span{
             width: 200px;
             margin-left: 30px;
         }
+      .music{
+          margin-left: 25px;
+          text-align: center;
+          color: white;
+          height: 125px;
+           width: 125px;
+         border-radius: 50%;
+         }
         .intro{
             font-size: 20px;
         }
@@ -301,6 +309,14 @@ span{
             width: 250px;
             margin-left: 60px;
         }
+        .music{
+          margin-left: 25px;
+          text-align: center;
+          color: white;
+          height: 150px;
+           width: 150px;
+         border-radius: 50%;
+         }
         .intro{
             font-size: 40px;
         }
