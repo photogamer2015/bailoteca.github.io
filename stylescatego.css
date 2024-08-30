@@ -84,9 +84,6 @@ float: left;
     .boton:hover{
         color:#e9e9a1;
     }
-    .boton:active{
-        color: #e9e9a1;
-    }
     .modi{
         text-align: center;
         border-radius: 10%;
