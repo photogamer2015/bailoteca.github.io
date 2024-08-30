@@ -13,6 +13,9 @@
     text-decoration: none;
     color: black;
 }
+cantantes a:hover{
+    color: red;
+}
 
 
 .logo img {
