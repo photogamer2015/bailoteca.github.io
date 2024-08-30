@@ -252,16 +252,7 @@ float: left;
     align-items: center;
     justify-content: center;
 }
-.videos-container{
-    margin-top: 20px;
-}
-.video{
-    width: 320px;
-    height: 200px;
-    margin-bottom: 20px;
-}
 .navbar{
-    display: none;
     position: sticky;
     top: 0;
     background-color: #333; /* Color de fondo del navbar */
@@ -293,9 +284,6 @@ float: left;
     color: white;
 }
 
-.navbar.hamburger{
-    display: none;
-}
         .footer {
             padding: 5px 0;
         }
@@ -363,7 +351,6 @@ float: left;
             justify-content: center;
         }
         .navbar{
-            display: none;
             position: sticky;
             top: 0;
             background-color: #333; /* Color de fondo del navbar */
