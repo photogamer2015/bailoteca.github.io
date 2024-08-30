@@ -235,7 +235,7 @@ span{
             font-size: 20px;
         }
         .container {
-            padding: 20px;
+            padding: 5px;
         }
         .navbar ul {
             flex-direction: column;
