@@ -197,6 +197,14 @@ float: left;
     font-size: 25px;
     background-color: #e0e899;
 }
+.music{
+margin-left: 25px;
+text-align: center;
+color: white;
+height: 150px;
+width: 150px;
+border-radius: 50%;
+}
 
 .resolution{
     width: 200%;
