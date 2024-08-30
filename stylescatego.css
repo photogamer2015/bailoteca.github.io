@@ -6,9 +6,7 @@
     background-color: #3e3e3c;
     color: rgb(255, 255, 255);
 }
-.texto{
-        color: red;
-}
+
 .cantantes{
     text-decoration: none;
     color: black;
@@ -29,7 +27,8 @@ cantantes a:hover{
     text-align: center;
     font-size: 30px;
 }
-.inicio{
+.inicio.texto{
+    color: red;
     font-size: 25px;
     background-color: beige;
 }
