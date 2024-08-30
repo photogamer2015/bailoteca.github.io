@@ -263,7 +263,7 @@ float: left;
             display: none;
         }
         .footer {
-            padding: 5px 0;
+            padding: 10px 0;
         }
         .footer.container {
             flex-direction: row;
@@ -339,7 +339,7 @@ float: left;
             display: none;
         }
         .footer {
-            padding: 10px 0;
+            padding: 20px 0;
         }
         .footer.container {
             flex-direction: row;
