@@ -247,7 +247,7 @@ float: left;
             font-size: 8px;
         }
      .container {
-            padding: 15px;
+            padding: 5px;
         }
         .navbar ul {
             flex-direction: column;
@@ -263,7 +263,7 @@ float: left;
             display: none;
         }
         .footer {
-            padding: 10px 5px;
+            padding: 10px 0px;
         }
         .footer.container {
             flex-direction: row;
