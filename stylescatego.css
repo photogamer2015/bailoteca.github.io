@@ -323,7 +323,7 @@ float: left;
             font-size: 16px;
         }
    .container {
-            padding: 40px;
+            padding: 10px;
         }
         .navbar ul {
             flex-direction: column;
