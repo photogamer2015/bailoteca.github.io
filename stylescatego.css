@@ -76,6 +76,7 @@ float: left;
     }
     
 .boton {
+    font-size: 15px;
   border: none;
   color: white;
   background-color: #007bff;
