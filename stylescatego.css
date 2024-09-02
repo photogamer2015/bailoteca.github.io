@@ -74,21 +74,24 @@ float: left;
 #playlist{
     text-align: center;
     }
-    
-    .boton{
-        text-align: center;
-        background-color:  rgb(124, 39, 39);
-        color: rgb(255, 255, 255);
-        font-size: 25px;
-        margin-left: 25px;
-        height: 125px;
-        width: 125px;
-        border-radius: 50%;
-        border: none;
     }
-    .boton:hover{
-        color:#e9e9a1;
-    }
+.boton{
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.boton:hover {
+  background-color: #45a049;
+}
+
+.boton:active {
+  background-color: #3e8e41;
+}
+
     .modi{
         text-align: center;
         border-radius: 10%;
