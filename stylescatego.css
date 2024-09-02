@@ -74,25 +74,19 @@ float: left;
 #playlist{
     text-align: center;
     }
-    }
-.boton{
-  padding: 10px 20px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+    
+.boton {
+  border: none; 
+  color: white; 
+  padding: 14px 28px; 
+  cursor: pointer; 
+  border-radius: 5px; 
+}
+.boton:hover{
+background-color: #007bff;
 }
 
-.boton:hover {
-  background-color: #45a049;
-}
-
-.boton:active {
-  background-color: #3e8e41;
-}
-
-    .modi{
+.modi{
         text-align: center;
         border-radius: 10%;
     }
