@@ -77,13 +77,13 @@ float: left;
     
 .boton {
   border: none; 
-  color: white; 
+  color: black; 
   padding: 14px 28px; 
   cursor: pointer; 
   border-radius: 5px; 
 }
 .boton:hover{
-background-color: #007bff;
+background-color: #eae86cb7;
 }
 
 .modi{
