@@ -76,14 +76,15 @@ float: left;
     }
     
 .boton {
-  border: none; 
-  color: black; 
+  border: none;
+  color: white;
+  background-color: #007bff;
   padding: 20px 35px; 
   cursor: pointer; 
   border-radius: 5px; 
 }
 .boton:hover{
-background-color: #eae86cb7;
+background: #0b7dda;
 }
 
 .modi{
