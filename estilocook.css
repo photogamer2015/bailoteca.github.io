@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 }
 
+.inicio{
+	text-align: center;
+}
 body {
 	background: #f2f2f2;
 	font-family: 'Roboto', sans-serif;
