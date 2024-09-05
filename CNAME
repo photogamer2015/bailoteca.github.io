@@ -1,2 +1,3 @@
 bryce.ns.cloudflare.com
 bailoteca.tk ALIAS apex-loadbalancer.netlify.com
+bailoteca.tk A 75.2.60.5
