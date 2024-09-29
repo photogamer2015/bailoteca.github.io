@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://bailoteca01.netlify.app/contact</loc>
+    <loc>https://bailoteca01.netlify.app/bailes</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://bailoteca.netlify.app/services</loc>
+    <loc>https://bailoteca.netlify.app/servicios</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -31,7 +31,7 @@
   </url>
 
   <url>
-    <loc>https://bailoteca_musica.netlify.app/services</loc>
+    <loc>https://bailoteca_musica.netlify.app/inicio</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -39,11 +39,10 @@
   </url>
 
   <url>
-    <loc>https://bailoteca01_musica.netlify.app/services</loc>
+    <loc>https://bailoteca01_musica.netlify.app/bachata</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    
   </url>
   
   <url>
@@ -52,4 +51,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  
+  <url>
+    <loc>https://bailoteca01_musica.netlify.app/reggaeton</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://bailoteca01_musica.netlify.app/salsa</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
 </urlset>
