@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://bailoteca01.netlify.app/about</loc>
+    <loc>https://bailoteca01/about</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -23,7 +23,23 @@
   </url>
   
   <url>
-    <loc>https://bailoteca01.netlify.app/services</loc>
+    <loc>https://bailoteca.netlify.app/services</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    
+  </url>
+
+  <url>
+    <loc>https://bailoteca_musica.netlify.app/services</loc>
+    <lastmod>2024-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    
+  </url>
+
+  <url>
+    <loc>https://bailoteca01_musica.netlify.app/services</loc>
     <lastmod>2024-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
